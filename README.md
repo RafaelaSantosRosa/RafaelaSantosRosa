@@ -2,7 +2,7 @@
 
 - 📌 I'm from Santa Catarina, 🇧🇷
 
-- 🔭 I'm working at Alt-NDD Tech 🚀#
+- 🔭 I'm working at Alt-NDD Tech 🚀
 
 - 💻 I'm a trainee.
 
@@ -19,4 +19,14 @@
   <img align="center" alt="Rafa-SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Rafa-SQLServer" height="55" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
 </div>
+
+##
+<a href="https://www.instagram.com/rafaelasantosrosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelaSantosRosa&show_icons=true&theme=radical)
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaSantosRosa&hide=javascript,html&theme=radical&layout=compact)](https://github.com/RafaelaSantosRosa/github-readme-stats)
+
 
