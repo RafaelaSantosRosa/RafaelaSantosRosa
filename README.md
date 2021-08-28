@@ -1,9 +1,5 @@
 ### Hello 👋
 
-<!--
-**RafaelaSantosRosa/RafaelaSantosRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 📌 I'm from Santa Catarina, 🇧🇷
 
 - 🔭 I'm working at Alt-NDD Tech 🚀#
@@ -23,4 +19,4 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Rafa-SQLServer" height="55" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
 </div>
--->
+
