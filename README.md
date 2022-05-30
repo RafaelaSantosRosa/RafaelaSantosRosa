@@ -4,7 +4,7 @@
 
 - 🔭 I'm working at Alt-NDD Tech 🚀
 
-- 💻 I'm a trainee.
+- 💻 I'm a junior developer.
 
 - 🌱 I'm learning C# - .NET
 
