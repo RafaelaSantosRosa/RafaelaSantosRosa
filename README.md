@@ -6,9 +6,9 @@
 
 - 💻 I'm a junior developer.
 
-- 🌱 I'm learning C# - .NET
+- 🌱 I'm improving my knowledge in C# - .NET
 
-- 📚 I'm studying Computer Science at IFSC.
+- 📚 I'm studying Computer Science at IFSC - 6/8.
 
 
 
