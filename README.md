@@ -2,11 +2,13 @@
 
 - 📌 I'm from Santa Catarina, 🇧🇷
 
-- 🔭 I'm working at Alt-NDD Tech 🚀
+- 🔭 I'm working at NDD Tech 🚀
 
 - 💻 I'm a junior developer.
 
 - 🌱 I'm improving my knowledge in C# - .NET
+
+- 📚 I'm learning front-end technologies
 
 - 📚 I'm studying Computer Science at IFSC - 6/8.
 
@@ -16,8 +18,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Rafa-SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Rafa-SQLServer" height="55" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+  <img align="center" alt="Rafa-SQLServer" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-SQLite" height="55" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+  <img align="center" alt="Rafa-Angular" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Rafa-Php" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /
 </div>
 
 ##
