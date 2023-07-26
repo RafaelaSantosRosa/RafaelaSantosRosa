@@ -10,7 +10,7 @@
 
 - 📚 I'm learning front-end technologies
 
-- 📚 I'm studying Computer Science at IFSC - 6/8.
+- 📚 I'm studying Computer Science at IFSC - 8/8.
 
 
 
