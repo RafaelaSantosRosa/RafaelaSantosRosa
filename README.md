@@ -1,16 +1,16 @@
 ### Hello 👋
 
-- 📌 I'm from Santa Catarina, 🇧🇷
+- 📌 I'm from Santa Catarina, but currently living in São Paulo 🇧🇷
 
 - 🔭 I'm working at NDD Tech 🚀
 
-- 💻 I'm a junior developer.
+- 💻 I'm a software developer.
 
-- 🌱 I'm improving my knowledge in C# - .NET
+- 🌱 I'm improving my knowledge in C# - .NET with 3 years of experience 
 
-- 📚 I'm learning front-end technologies
+- 📚 I'm improving my knowledge in TypeScript with almost 2 years of experience
 
-- 📚 I'm studying Computer Science at IFSC - 8/8.
+- 📚 I have a Bachelor's degree in Computer Science
 
 
 
