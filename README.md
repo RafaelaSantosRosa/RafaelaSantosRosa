@@ -1,6 +1,6 @@
 ## Olá, sou Rafaela 👋
 ### Bem vindo ao meu perfil GitHub
-Atualmente, sou uma desenvolvedora Fullstack com quase três anos de experiência no mercado de trabalho, apaixonada por criar soluções inovadoras. Sou graduada em Ciência da Computação pelo Instituto Federal de Santa Catarina, onde meu interesse e curiosidade pela tecnologia se iniciaram. Desde então, tenho explorado constantemente novas maneiras de aprimorar minhas habilidades e acompanhar as últimas tendências tecnológicas, impulsionada por uma mente curiosa e ávida por conhecimento.
+Atualmente, sou uma desenvolvedora Fullstack com quase quatro anos de experiência no mercado de trabalho, apaixonada por criar soluções inovadoras. Sou graduada em Ciência da Computação pelo Instituto Federal de Santa Catarina, onde meu interesse e curiosidade pela tecnologia se iniciaram. Desde então, tenho explorado constantemente novas maneiras de aprimorar minhas habilidades e acompanhar as últimas tendências tecnológicas, impulsionada por uma mente curiosa e ávida por conhecimento.
 
 ##
 
